@@ -1,0 +1,12 @@
+.idea
+
+.DS_Store
+venv
+
+.pytest_cache
+logs
+.aim
+
+example/data
+
+dist
